@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TemporaryFile</id>
+    <version>0.0.1</version>
+    <title>TemporaryFile</title>
+    <authors>So Cal Code Camp</authors>
+    <owners>So Cal Code Camp</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A file that deletes itself when disposed</description>
+    <copyright>Copyright © Jim Counts 2013</copyright>
+    <dependencies>
+      <dependency id="ApprovalUtilities" version="3.0.5" />
+    </dependencies>
+  </metadata>
+</package>
